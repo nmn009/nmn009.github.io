@@ -15,9 +15,10 @@
 ![Family](https://user-images.githubusercontent.com/56015500/103726583-1f0f9f80-4f8e-11eb-9c14-9222cf9ac979.jpeg)
 ###### My favorite quote:
 >You don't know what you can do until you try.
+- [Here](https://github.com/nmn009) is my github. **Welcome!!!** 
 # 2. Education:
-- [x] Miramar College *2015-2019*
-- [ ] UCSD *2019-2022*
+- [x] ***San Diego Miramar College*** *~~2015-2019~~*
+- [ ] ***University of California, San Diego*** *~~2019~~-2022*
 # 3. Hobbies:
 - Since high school, I really liked sport;
   - Volleyball ![volleyball](https://straightmendont.files.wordpress.com/2011/09/volleyball.jpg)
