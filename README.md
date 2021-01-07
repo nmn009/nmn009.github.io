@@ -11,7 +11,7 @@
 ![Family](https://user-images.githubusercontent.com/56015500/103726583-1f0f9f80-4f8e-11eb-9c14-9222cf9ac979.jpeg)
 ###### My favorite quote:
 >You don't know what you can do until you try.
-- [Here](https://github.com/nmn009) is my github. **`cout << ""Welcome!!! "" << endl`** 
+- *[Here](https://github.com/nmn009) is my github. ```cout << ""Welcome!!! "" << endl```* 
 # 2. Education:
 - [x] ***San Diego Miramar College*** *~~2015-2019~~*
 - [ ] ***University of California, San Diego*** *~~2019~~-2022*
