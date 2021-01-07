@@ -4,7 +4,7 @@
 # 2. [Education](/README.md#2-education-1)
 # 3. [Hobbies](/README.md#3-hobbies-1)
 # 4. [Achieve](/README.md#4-achieve-1)
-# 5. [Goal](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#5-goal-1)
+# 5. [Goal](/README.md#5-goal-1)
 #
 #
 #
