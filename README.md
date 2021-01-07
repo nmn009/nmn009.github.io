@@ -2,10 +2,10 @@
 **This is _Nhat Nguyen's_ User Page**
 ### Content:
 # 1. [Introduction](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#1-introduction-1)
-# 2. [Education]
-# 3. [Hobbies]
-# 4. [Achieve]
-# 5. [Goal]
+# 2. [Education](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#2-education-1)
+# 3. [Hobbies](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#3-hobbies-1)
+# 4. [Achieve](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#4-achieve-1)
+# 5. [Goal](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#5-goal-1)
 :yum:
 # 1. Introduction:
 - My name is **Nhat Nguyen** and I am from **_Viet Nam_**. The U.S is my second home as I came here since 2014.
