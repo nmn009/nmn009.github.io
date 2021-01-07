@@ -1,13 +1,10 @@
-**This is _Nhat Nguyen's_ User Page**
-### Content:
+# **This is _Nhat Nguyen's_ User Page**
+## Content:
 # 1. [Introduction](/README.md#1-introduction-1)
 # 2. [Education](/README.md#2-education-1)
 # 3. [Hobbies](/README.md#3-hobbies-1)
 # 4. [Achieve](/README.md#4-achieve-1)
 # 5. [Goal](/README.md#5-goal-1)
-#
-#
-#
 # 1. Introduction:
 - My name is **Nhat Nguyen** and I am from **_Viet Nam_**. The U.S is my second home as I came here since 2014.
 - This is my family
