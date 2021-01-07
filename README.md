@@ -1,6 +1,6 @@
 **This is _Nhat Nguyen's_ User Page**
 ### Content:
-# 1. [Introduction](nmn009.github.io/blob/main/README.md#1-introduction-1)
+# 1. [Introduction](/README.md#1-introduction-1)
 # 2. [Education](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#2-education-1)
 # 3. [Hobbies](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#3-hobbies-1)
 # 4. [Achieve](https://github.com/nmn009/nmn009.github.io/blob/main/README.md#4-achieve-1)
