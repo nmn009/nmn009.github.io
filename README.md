@@ -8,7 +8,7 @@
 #
 #
 #
-# 1. Introduction:
+# 1. [Introduction]:
 - My name is **Nhat Nguyen** and I am from **_Viet Nam_**. The U.S is my second home as I came here since 2014.
 - This is my family
 ![Family](https://user-images.githubusercontent.com/56015500/103726583-1f0f9f80-4f8e-11eb-9c14-9222cf9ac979.jpeg)
