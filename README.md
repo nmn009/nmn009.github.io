@@ -22,11 +22,11 @@
 - Going to college, I usually have less time but I still try to spend at least once a week to play soccer ![soccer](https://tse1.mm.bing.net/th?id=OIP.YH8DQ_wmZuHjh9lJ8EBAaAHaDt&pid=Api&P=0&w=391&h=196)
 
 # 4. Achieve:
-- So far, I became American after 5 years :star_struck:
+- So far, I became American after 5 years:star_struck:
 - I have done some projects in college such as compressed/uncompressed a file, programed a simple vending machine,..
 # 5. Goal:
 
- ##### There are something I would like to achieve in this quarter:
+ ### There are something I would like to achieve in this quarter:
   - Learn more about algorithms
   - Learn more about coding skill
   - Cooperate with other team member
