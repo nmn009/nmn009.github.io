@@ -30,4 +30,5 @@
   - Learn more about algorithms
   - Learn more about coding skill
   - Cooperate with other team member
-# [Here](./FamilyPicture.md) is some more picture of my family
+# [Here](./FamilyPicture.md) is some more picture of my family3
+# This is a [book](https://ict.iitk.ac.in/wp-content/uploads/CS422-Computer-Architecture-ComputerOrganizationAndDesign5thEdition2014.pdf) from CSE 141. 
